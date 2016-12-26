@@ -1,5 +1,5 @@
 # 欢迎查看我的博客
- [http://www.hmilab.cn](www.hmilab.cn)
+ [http://www.hmilab.cn](http://www.hmilab.cn)
 
 >博客模版来自 [3-Jekyll](https://github.com/P233/3-Jekyll)
 
