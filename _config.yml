@@ -41,3 +41,4 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+port: 5001
