@@ -37,6 +37,9 @@ favicon: https://raw.githubusercontent.com/Maxhead/Maxhead.github.io/master/asse
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
 sass:
   style: compressed
 gems:
